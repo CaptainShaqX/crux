@@ -1,4 +1,4 @@
-<h2>JAVA Resources</h1>
+<h1>JAVA Resources</h1>
 
 -This repo contains JAVA fundamentals for DSA.
 -Beginner Friendly.
