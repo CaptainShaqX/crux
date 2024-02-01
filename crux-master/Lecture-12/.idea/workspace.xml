@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92a2d714-8db0-4c02-9981-044119500014" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/inheritance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cIrMN3TePWoixRxskf3WlbukmC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/SicParvisMagna/OneDrive/Documents/JAVA Programs/IntelliJ IDEA/CRUX/Lecture-12/src/com/codingblocks/QueueUsingStack.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539864414920" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks.abstract_classes" />
+      <recent name="com.codingblocks" />
+      <recent name="com.codingblocks.implementations" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codingblocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EffMain">
+    <configuration name="EffMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.EffMain" />
+      <module name="Lecture-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.implementations.ListClient" />
+      <module name="Lecture-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.abstract_classes.Main" />
+      <module name="Lecture-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.abstract_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Main" />
+      <module name="Lecture-12" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.QueueClient" />
+      <module name="Lecture-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ListClient" />
+      <item itemvalue="Application.QueueClient" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.EffMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EffMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.QueueClient" />
+        <item itemvalue="Application.ListClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92a2d714-8db0-4c02-9981-044119500014" name="Default Changelist" comment="" />
+      <created>1538297244903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538297244903</updated>
+      <workItem from="1556119028484" duration="22000" />
+      <workItem from="1568540150004" duration="269000" />
+      <workItem from="1568564715642" duration="9000" />
+      <workItem from="1590226900914" duration="315000" />
+      <workItem from="1601270129088" duration="2562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1117" y="616" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601275913875">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1117" y="616" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.-63.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1601275913875" />
+  </component>
+</project>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96e36b86-3bd2-4c09-94b0-c12fc15ef06c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectId" id="1b5MPW4xIdeY0IJc6yYdZJk2WVg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/SicParvisMagna/OneDrive/Documents/JAVA Programs/IntelliJ IDEA/CRUX/Lecture-7/src/com/codingblocks/Main.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553114251823" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.ArrayListExample" />
+      <module name="Lecture-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Demo" />
+      <module name="Lecture-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Parenthesis" />
+      <module name="Lecture-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.SplitArray" />
+      <module name="Lecture-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Streams" />
+      <module name="Lecture-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Streams" />
+      <item itemvalue="Application.ArrayListExample" />
+      <item itemvalue="Application.Parenthesis" />
+      <item itemvalue="Application.SplitArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.SplitArray" />
+        <item itemvalue="Application.Parenthesis" />
+        <item itemvalue="Application.Streams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96e36b86-3bd2-4c09-94b0-c12fc15ef06c" name="Default Changelist" comment="" />
+      <created>1537001298673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537001298673</updated>
+      <workItem from="1551544362288" duration="367000" />
+      <workItem from="1551545144298" duration="8000" />
+      <workItem from="1551695173004" duration="14000" />
+      <workItem from="1551707842945" duration="19000" />
+      <workItem from="1552063323510" duration="204000" />
+      <workItem from="1552205103637" duration="129000" />
+      <workItem from="1552230376179" duration="156000" />
+      <workItem from="1552931684205" duration="548000" />
+      <workItem from="1552935015525" duration="885000" />
+      <workItem from="1553113433853" duration="785000" />
+      <workItem from="1568047625694" duration="1632000" />
+      <workItem from="1570344222762" duration="170000" />
+      <workItem from="1573495245594" duration="91000" />
+      <workItem from="1587917478972" duration="115000" />
+      <workItem from="1588072494427" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="469" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587917484562">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="717" y="469" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1587917484562" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a51025-6b5b-4120-81e5-64bd5de4c705" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/META-INF/Lecture-14.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/out/production/Lecture-14/com/codingblocks/CLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14/src/com/codingblocks/CLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/src/com/codingblocks/Sorting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectId" id="1VLCqwMtyOkB3LA0L9XElcXid2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546610620434" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Bitwise">
+    <configuration name="Bitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Bitwise" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Demo" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Etc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Etc" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.GFG" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Main" />
+      <module name="Lecture-18" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Bitwise" />
+      <item itemvalue="Application.GFG" />
+      <item itemvalue="Application.Etc" />
+      <item itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bitwise" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Etc" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a51025-6b5b-4120-81e5-64bd5de4c705" name="Default Changelist" comment="" />
+      <created>1540716406483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540716406483</updated>
+      <workItem from="1569556329028" duration="546000" />
+      <workItem from="1570181750250" duration="2000" />
+      <workItem from="1572756307392" duration="603000" />
+      <workItem from="1572888085103" duration="1637000" />
+      <workItem from="1575467268610" duration="2771000" />
+      <workItem from="1577023184086" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577023208373">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1577023208373" />
+    <state width="1750" height="373" key="GridCell.Tab.0.bottom" timestamp="1577031861556">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861556" />
+    <state width="1750" height="373" key="GridCell.Tab.0.center" timestamp="1577031861555">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861555" />
+    <state width="1750" height="373" key="GridCell.Tab.0.left" timestamp="1577031861554">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861554" />
+    <state width="1750" height="373" key="GridCell.Tab.0.right" timestamp="1577031861555">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861555" />
+    <state width="1750" height="373" key="GridCell.Tab.1.bottom" timestamp="1577031861557">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861557" />
+    <state width="1750" height="373" key="GridCell.Tab.1.center" timestamp="1577031861556">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861556" />
+    <state width="1750" height="373" key="GridCell.Tab.1.left" timestamp="1577031861556">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861556" />
+    <state width="1750" height="373" key="GridCell.Tab.1.right" timestamp="1577031861556">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="373" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1577031861556" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lecture-18</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

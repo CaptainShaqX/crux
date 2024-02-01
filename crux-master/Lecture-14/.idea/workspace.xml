@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab3b028-8fbc-4517-b9d2-42f421b5c98a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/CLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/CLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/out/production/Lecture-16/com/codingblocks/PrintKDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16/src/com/codingblocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-18/src/com/codingblocks/Heap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="-969" />
+    <option name="width" value="1285" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectId" id="1VL92sHXo3lLA3O7KFGpgaBn713" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541442380658" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CLL">
+    <configuration name="CLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.CLL" />
+      <module name="Lecture-14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.DoublyLinkedList" />
+      <module name="Lecture-14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.LL" />
+      <module name="Lecture-14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.LinkedListStudent" />
+      <module name="Lecture-14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.SparseMatrix" />
+      <module name="Lecture-14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LL" />
+      <item itemvalue="Application.LinkedListStudent" />
+      <item itemvalue="Application.SparseMatrix" />
+      <item itemvalue="Application.DoublyLinkedList" />
+      <item itemvalue="Application.CLL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CLL" />
+        <item itemvalue="Application.DoublyLinkedList" />
+        <item itemvalue="Application.SparseMatrix" />
+        <item itemvalue="Application.LinkedListStudent" />
+        <item itemvalue="Application.LL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab3b028-8fbc-4517-b9d2-42f421b5c98a" name="Default Changelist" comment="" />
+      <created>1538827828923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538827828923</updated>
+      <workItem from="1569519625582" duration="1700000" />
+      <workItem from="1570943228132" duration="251000" />
+      <workItem from="1570948201350" duration="26000" />
+      <workItem from="1571148190408" duration="11000" />
+      <workItem from="1572372013796" duration="972000" />
+      <workItem from="1572373525433" duration="842000" />
+      <workItem from="1577021305994" duration="1386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="237" key="#Inspections" timestamp="1577021831903">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="237" key="#Inspections/0.23.1792.1097@0.23.1792.1097" timestamp="1577021831903" />
+    <state x="709" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1577022110627">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1577022110627" />
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577021327542">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="733" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1577021327542" />
+    <state width="1750" height="299" key="GridCell.Tab.0.bottom" timestamp="1577023128199">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="299" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1577023128199" />
+    <state width="1750" height="299" key="GridCell.Tab.0.center" timestamp="1577023128198">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="299" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1577023128198" />
+    <state width="1750" height="299" key="GridCell.Tab.0.left" timestamp="1577023128197">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="299" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1577023128197" />
+    <state width="1750" height="299" key="GridCell.Tab.0.right" timestamp="1577023128198">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="299" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1577023128198" />
+  </component>
+</project>
